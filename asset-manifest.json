@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/pagina2/static/css/main.d2a6830c.css",
+    "main.js": "/pagina2/static/js/main.f9b1b574.js",
+    "static/js/787.bdd59120.chunk.js": "/pagina2/static/js/787.bdd59120.chunk.js",
+    "static/media/5.png": "/pagina2/static/media/5.287e488a237a2207da45.png",
+    "static/media/2.png": "/pagina2/static/media/2.c0faa13f22c9ee16216a.png",
+    "static/media/4.png": "/pagina2/static/media/4.522f48da4dca3c46e2a9.png",
+    "static/media/6.png": "/pagina2/static/media/6.7ba53a9805089d025deb.png",
+    "static/media/3.png": "/pagina2/static/media/3.a25906caaccb435b93ae.png",
+    "static/media/logo.png": "/pagina2/static/media/logo.89a90d5e47476ae76409.png",
+    "static/media/Comfortaa-VariableFont_wght.ttf": "/pagina2/static/media/Comfortaa-VariableFont_wght.4d2ab5de91c4d193a69f.ttf",
+    "static/media/bn.png": "/pagina2/static/media/bn.e4510b9ff8a382bd0da2.png",
+    "static/media/not1.png": "/pagina2/static/media/not1.c0f1c0ecd20af10fae26.png",
+    "index.html": "/pagina2/index.html",
+    "main.d2a6830c.css.map": "/pagina2/static/css/main.d2a6830c.css.map",
+    "main.f9b1b574.js.map": "/pagina2/static/js/main.f9b1b574.js.map",
+    "787.bdd59120.chunk.js.map": "/pagina2/static/js/787.bdd59120.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2a6830c.css",
+    "static/js/main.f9b1b574.js"
+  ]
+}
